@@ -7,6 +7,11 @@ CatalystSwarm.com</a> </p>
 
 <p align="left"> <a href="https://twitter.com/snetswarm" target="blank"><img src="https://img.shields.io/twitter/follow/snetswarm?logo=twitter&style=for-the-badge" alt="snetswarm" /></a> </p>
 
+
+![image](https://user-images.githubusercontent.com/31933481/208756967-0f4d00e2-80ab-4bcd-8a25-cce60841190d.png)
+
+Join us on December 21, 2022 at 17.00 UTC for the very first DeepFund Town Hall and get latest updates and information about how to join and engage at the DeepFund ecosystem & community
+
 <h3 align="right">Connect with The <a href="http://SingularitySwarm.io/">
 Singularity SWARM</a>:</h3>
 <p align="right">
